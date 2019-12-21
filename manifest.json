@@ -1,5 +1,5 @@
 {
-  "version": 1.0,
-  "Leagues": ["Metamorph", "Hardcore Metamorph", "Standard", "Hardcore"],
-  "map_series": "metamorph
+  "version": "v1.0.0",
+  "leagues": ["Metamorph", "Hardcore Metamorph", "Standard", "Hardcore"],
+  "map_series": "metamorph"
 }
