@@ -5,6 +5,8 @@ Linked PoE Tabled Atlas site: https://zedor.github.io/poe-tabled-atlas/
 
 Alternative chrome extension: https://github.com/zedor/poe-tabled-atlas-chrome-ext
 
+![tool-image](https://i.imgur.com/ssCM2lV.png)
+
 ## How to use
 
 1. Download and extract the package, run the .ahk and pray that I'm not retarded and can write usable code and that poe api is working correctly.
